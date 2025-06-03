@@ -77,11 +77,12 @@ nfa+tt.exe "abaaaaaaaaaaaaaaaaaa" "([ab]+)+b" -time # 対象テキスト、正�
 ```
 
 出力例：
+```
+abaaaaaaaaaaaaaaaaaa
+~~
 
-> **ab**aaaaaaaaaaaaaaaaaa
->
-> 0.0711
-
+0.0711
+```
 #### Linux
 
 ```
@@ -89,13 +90,14 @@ nfa+tt.exe "abaaaaaaaaaaaaaaaaaa" "([ab]+)+b" -time # 対象テキスト、正�
 ```
 
 出力例：
+```
+abaaaaaaaaaaaaaaaaaa
+~~
 
-> **ab**aaaaaaaaaaaaaaaaaa
->
-> 0.0711
-
+0.0711
+```
 ### 補足
-
+- 実際の出力では、マッチした箇所が色変更されて視覚的に強調されます。 都合上、GitHub では異なる表記になっています。
 - 他のコマンドラインオプションは /help または /man オプションで確認できます。
 
 ## ライセンス
