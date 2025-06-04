@@ -1,43 +1,43 @@
 -------------------------------------------------------------------------------
-   NFA+’uŠ·•\@³‹K•\Œ»ƒGƒ“ƒWƒ“
+   NFA+ç½®æ›è¡¨ã€€æ­£è¦è¡¨ç¾ã‚¨ãƒ³ã‚¸ãƒ³
 -------------------------------------------------------------------------------
-¡ŠT—v
-@NFA³‹K•\Œ»ƒGƒ“ƒWƒ“‚Éu’uŠ·•\v‚ðŽÀ‘•‚µ‚½uNFA+’uŠ·•\vƒGƒ“ƒWƒ“‚Å‚·B
-@Ú×‚ÍWebƒTƒCƒg(https://g-inomata.sakura.ne.jp/)‚ð‚¨“Ç‚Ý‚­‚¾‚³‚¢B
+â– æ¦‚è¦
+ã€€NFAæ­£è¦è¡¨ç¾ã‚¨ãƒ³ã‚¸ãƒ³ã«ã€Œç½®æ›è¡¨ã€ã‚’å®Ÿè£…ã—ãŸã€ŒNFA+ç½®æ›è¡¨ã€ã‚¨ãƒ³ã‚¸ãƒ³ã§ã™ã€‚
+ã€€è©³ç´°ã¯Webã‚µã‚¤ãƒˆ(https://g-inomata.sakura.ne.jp/regex/index.html)ã‚’ãŠèª­ã¿ãã ã•ã„ã€‚
 
-¡ƒtƒ@ƒCƒ‹\¬
-@Ereadme.txt
-@@‚±‚Ìƒtƒ@ƒCƒ‹‚Å‚·B
+â– ãƒ•ã‚¡ã‚¤ãƒ«æ§‹æˆ
+ã€€ãƒ»readme.txt
+ã€€ã€€ã“ã®ãƒ•ã‚¡ã‚¤ãƒ«ã§ã™ã€‚
 
-@Emakefile
-@@ƒrƒ‹ƒh‚ðŽ©“®‰»‚·‚éƒc[ƒ‹‚ªŽQÆ‚·‚éƒ‹[ƒ‹‚ð‹Lq‚µ‚½ƒtƒ@ƒCƒ‹‚Å‚·B
+ã€€ãƒ»makefile
+ã€€ã€€ãƒ“ãƒ«ãƒ‰ã‚’è‡ªå‹•åŒ–ã™ã‚‹ãƒ„ãƒ¼ãƒ«ãŒå‚ç…§ã™ã‚‹ãƒ«ãƒ¼ãƒ«ã‚’è¨˜è¿°ã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã§ã™ã€‚
 
-@Eregex.h
-@@NFA+’uŠ·•\ƒGƒ“ƒWƒ“‚ÌŽÀ‘•‚ÍA‘S‚Ä‚±‚Ìƒtƒ@ƒCƒ‹‚É‹Lq‚µ‚Ä‚ ‚è‚Ü‚·B
+ã€€ãƒ»regex.h
+ã€€ã€€NFA+ç½®æ›è¡¨ã‚¨ãƒ³ã‚¸ãƒ³ã®å®Ÿè£…ã¯ã€å…¨ã¦ã“ã®ãƒ•ã‚¡ã‚¤ãƒ«ã«è¨˜è¿°ã—ã¦ã‚ã‚Šã¾ã™ã€‚
 
-@Enfa_plus_ttable.cpp
-@@regex.h‚Ì—˜—p—á‚Æ‚µ‚ÄAƒRƒ“ƒ\[ƒ‹ƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ðì‚è‚Ü‚µ‚½B
+ã€€ãƒ»nfa_plus_ttable.cpp
+ã€€ã€€regex.hã®åˆ©ç”¨ä¾‹ã¨ã—ã¦ã€ã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã‚’ä½œã‚Šã¾ã—ãŸã€‚
 
-@Emenu.bat
-@@ƒRƒ“ƒ\[ƒ‹ƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ÍƒRƒ}ƒ“ƒh‚ð‘Å‚¿ž‚Þ‚Ì‚ª–Ê“|‚¾‚ÆŽv‚¤‚Ì‚ÅA
-@@ŠÈ’P‚É“®ìŠm”F‚Å‚«‚é‚æ‚¤‚Éƒfƒ‚—pƒoƒbƒ`ƒtƒ@ƒCƒ‹‚ð—pˆÓ‚µ‚Ü‚µ‚½B
-@@‚»‚Ìƒfƒ‚—pƒoƒbƒ`ƒtƒ@ƒCƒ‹‚ðŒÄ‚Ño‚·‚½‚ß‚Ìƒƒjƒ…[‚Å‚·B
+ã€€ãƒ»menu.bat
+ã€€ã€€ã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã¯ã‚³ãƒžãƒ³ãƒ‰ã‚’æ‰“ã¡è¾¼ã‚€ã®ãŒé¢å€’ã ã¨æ€ã†ã®ã§ã€
+ã€€ã€€ç°¡å˜ã«å‹•ä½œç¢ºèªã§ãã‚‹ã‚ˆã†ã«ãƒ‡ãƒ¢ç”¨ãƒãƒƒãƒãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç”¨æ„ã—ã¾ã—ãŸã€‚
+ã€€ã€€ãã®ãƒ‡ãƒ¢ç”¨ãƒãƒƒãƒãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‘¼ã³å‡ºã™ãŸã‚ã®ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã§ã™ã€‚
 
-@E1.bat
-@@umenu.batv‚©‚çŒÄ‚Ño‚³‚ê‚éƒfƒ‚—pƒoƒbƒ`ƒtƒ@ƒCƒ‹‚Å‚·B
-@@WebƒTƒCƒg‚ÅŽ¦‚µ‚½uŠe³‹K•\Œ»ƒGƒ“ƒWƒ“‚Æ‚Ì“Á«”äŠrv‚ÌƒeƒXƒg‚ðŽÀŽ{‚µ‚Ü‚·B
+ã€€ãƒ»1.bat
+ã€€ã€€ã€Œmenu.batã€ã‹ã‚‰å‘¼ã³å‡ºã•ã‚Œã‚‹ãƒ‡ãƒ¢ç”¨ãƒãƒƒãƒãƒ•ã‚¡ã‚¤ãƒ«ã§ã™ã€‚
+ã€€ã€€Webã‚µã‚¤ãƒˆã§ç¤ºã—ãŸã€Œå„æ­£è¦è¡¨ç¾ã‚¨ãƒ³ã‚¸ãƒ³ã¨ã®ç‰¹æ€§æ¯”è¼ƒã€ã®ãƒ†ã‚¹ãƒˆã‚’å®Ÿæ–½ã—ã¾ã™ã€‚
 
-@E2.bat
-@@ã‹Lu1.batv“¯—luƒxƒ“ƒ`ƒ}[ƒNv‚ÌƒeƒXƒg‚ðŽÀŽ{‚Ü‚·B
+ã€€ãƒ»2.bat
+ã€€ã€€ä¸Šè¨˜ã€Œ1.batã€åŒæ§˜ã€Œãƒ™ãƒ³ãƒãƒžãƒ¼ã‚¯ã€ã®ãƒ†ã‚¹ãƒˆã‚’å®Ÿæ–½ã¾ã™ã€‚
 
-¡ƒrƒ‹ƒhŽè‡
-@Visual C++‚ÌŠJ”­ŠÂ‹«‚ªŠù‚É®‚Á‚Ä‚¢‚éŽ–‚ð‘O’ñ‚É‚µ‚Ä‚¢‚Ü‚·B
-@‚à‚µ‚àŠJ”­ŠÂ‹«‚ª‚Ü‚¾‚Ìê‡‚ÍAæ‚É®‚¦‚Ä‚­‚¾‚³‚¢B
+â– ãƒ“ãƒ«ãƒ‰æ‰‹é †
+ã€€Visual C++ã®é–‹ç™ºç’°å¢ƒãŒæ—¢ã«æ•´ã£ã¦ã„ã‚‹äº‹ã‚’å‰æã«ã—ã¦ã„ã¾ã™ã€‚
+ã€€ã‚‚ã—ã‚‚é–‹ç™ºç’°å¢ƒãŒã¾ã ã®å ´åˆã¯ã€å…ˆã«æ•´ãˆã¦ãã ã•ã„ã€‚
 
-@1.uŠJ”­ŽÒƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒgv(64ƒrƒbƒg‚ÅƒRƒ“ƒpƒCƒ‹‚·‚éê‡‚ÍAux64 
-@@Native Tools ƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒgv)‚ð‹N“®‚µ‚Ü‚·B
-@2.ucdvƒRƒ}ƒ“ƒh‚ðŽg‚Á‚Äƒ\[ƒXƒR[ƒh‚ð“WŠJ‚µ‚½ƒfƒBƒŒƒNƒgƒŠ‚ÖˆÚ“®‚µ‚Ü‚·B
-@3.unmakev‚ÆŽÀs‚µ‚Ü‚·B
+ã€€1.ã€Œé–‹ç™ºè€…ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã€(64ãƒ“ãƒƒãƒˆã§ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã™ã‚‹å ´åˆã¯ã€ã€Œx64 
+ã€€ã€€Native Tools ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã€)ã‚’èµ·å‹•ã—ã¾ã™ã€‚
+ã€€2.ã€Œcdã€ã‚³ãƒžãƒ³ãƒ‰ã‚’ä½¿ã£ã¦ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ã‚’å±•é–‹ã—ãŸãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã¸ç§»å‹•ã—ã¾ã™ã€‚
+ã€€3.ã€Œnmakeã€ã¨å®Ÿè¡Œã—ã¾ã™ã€‚
 
-@ˆÈã‚ÅŽÀsƒtƒ@ƒCƒ‹unfa+tt.exev‚ªo—ˆã‚ª‚Á‚Ä‚¢‚é‚Í‚¸‚Å‚·B
-@“®ìŠm”F‚àŠÜ‚ß‚ÄAumenu.batv‚ðŽÀs‚µAƒƒjƒ…[‚©‚çŠeƒfƒ‚‚ðŽÀs‚µ‚Ä‰º‚³‚¢B
+ã€€ä»¥ä¸Šã§å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã€Œnfa+tt.exeã€ãŒå‡ºæ¥ä¸ŠãŒã£ã¦ã„ã‚‹ã¯ãšã§ã™ã€‚
+ã€€å‹•ä½œç¢ºèªã‚‚å«ã‚ã¦ã€ã€Œmenu.batã€ã‚’å®Ÿè¡Œã—ã€ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‹ã‚‰å„ãƒ‡ãƒ¢ã‚’å®Ÿè¡Œã—ã¦ä¸‹ã•ã„ã€‚
